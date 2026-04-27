@@ -14,3 +14,5 @@ A decentralized digital ledger that records transactions securely and transparen
 
 - Security
 
+## How it Works:
+
