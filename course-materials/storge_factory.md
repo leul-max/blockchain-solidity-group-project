@@ -18,3 +18,5 @@ A decentralized digital ledger that records transactions securely and transparen
 
 1. Transaction is created
 
+2. Verified by nodes
+
