@@ -24,3 +24,5 @@ A decentralized digital ledger that records transactions securely and transparen
 
 4. Block is added to the chain
 
+
+
